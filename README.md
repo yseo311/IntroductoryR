@@ -1,36 +1,9 @@
 # IntroductoryR
 This repository holds the course materials for the Spring 2018 edition of Statistics 133: Concepts in Computing with Data at UC Berkeley.
 
-Instructor: Gaston Sanchez, gasigiri [at] berkeley [dot] edu
-Class Time: MWF 8-9am in Dwinelle 155
+Instructor: Gaston Sanchez
 Session Dates: 01/17/18 - 05/04/18
-Code #: 30844
-Units: 3 (more info here)
-Office Hours: MWF 1-2pm 309 Evans
-Final: Mon May 7, 8-11am (room TBD)
-Piazza: piazza.com/berkeley/spring2018/stat133
-GSIs: Office hours of the GSIs displayed below. You can go to the office hours of any GSI, not just your own.
-GSI	Room	Day/Time
-Jin Kweon	342 Evans	M Tu 9 - 11am
-Da Xu	342 Evans	W 4-6pm, Th 8-9am & 5-6pm
-Minchul Shin	342 Evans	M 10:30am-12:30pm, Th 5-7pm
-Ninh Do	342 Evans	M 9-11am, Th 8-9am
-Qi Chen	342 Evans	M 3-5pm, Tu 8-10am
-Rui Chen	426 Evans	W 12-2pm, Th 9-11am
-Lab Sections:
-Lab	Date	Room	GSI
-101	W 10-12pm	342 Evans	Jin Kweon
-102	W 12-2pm	340 Evans	Qi Chen
-103	W 12-2pm	342 Evans	Ninh Do
-104	W 2-4pm	340 Evans	Qi Chen
-105	W 2-4pm	342 Evans	Rui Chen
-106	Th 9-11am	342 Evans	Ninh Do
-107	Th 9-11am	330 Evans	Da Xu
-108	Th 11-1pm	342 Evans	Jin Kweon
-109	Th 11-1pm	330 Evans	Rui Chen
-110	Th 1-3pm	342 Evans	Minchul Shin
-111	Th 2-4pm	340 Evans	Da Xu
-112	Th 3-5pm	342 Evans	Minchul Shin
+
 Philosophy
 Concepts in Computing with Data presents computing tools and basic concepts for the main stages of the Data Analysis Cycle (DAC): 1) data preparation, 2) actual analysis, and 3) reporting of results.
 
