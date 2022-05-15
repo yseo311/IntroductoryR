@@ -1,6 +1,5 @@
-# IntroductoryR
+# Introductory R
 This repository holds the course materials for the Spring 2018 edition of Statistics 133: Concepts in Computing with Data at UC Berkeley.
-
 Instructor: Gaston Sanchez
 Session Dates: 01/17/18 - 05/04/18
 
